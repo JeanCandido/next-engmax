@@ -1,0 +1,34 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-7ae208c97a0a0da8.js",
+      "static/chunks/fd9d1056-2821b0f0cabcd8bd.js",
+      "static/chunks/23-b75664ace61c0abb.js",
+      "static/chunks/main-app-618ab2d749faaef5.js",
+      "static/chunks/app/_not-found/page-05886c10710171db.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-7ae208c97a0a0da8.js",
+      "static/chunks/fd9d1056-2821b0f0cabcd8bd.js",
+      "static/chunks/23-b75664ace61c0abb.js",
+      "static/chunks/main-app-618ab2d749faaef5.js",
+      "static/css/0666d067c0cb2e89.css",
+      "static/chunks/app/layout-ffb93b99bad05b78.js"
+    ],
+    "/laudo-de-playground/page": [
+      "static/chunks/webpack-7ae208c97a0a0da8.js",
+      "static/chunks/fd9d1056-2821b0f0cabcd8bd.js",
+      "static/chunks/23-b75664ace61c0abb.js",
+      "static/chunks/main-app-618ab2d749faaef5.js",
+      "static/chunks/app/laudo-de-playground/page-b613c9b490f5107e.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-7ae208c97a0a0da8.js",
+      "static/chunks/fd9d1056-2821b0f0cabcd8bd.js",
+      "static/chunks/23-b75664ace61c0abb.js",
+      "static/chunks/main-app-618ab2d749faaef5.js",
+      "static/chunks/231-bea070b1ecddfbbc.js",
+      "static/chunks/app/page-e61b601d71b90367.js"
+    ]
+  }
+}
